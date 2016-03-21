@@ -1,0 +1,3 @@
+# StartMenu
+Just a simple Python start menu, because I don't like metro-style.
+Can be trashed now, but I keep it as I reminder to keep on studying, because this code is crappy...
